@@ -1,5 +1,5 @@
 /* ========================================================================
- * Bootstrap: tab.js v3.4.1
+ * Bootstrap: tab.js v3.4.2
  * https://getbootstrap.com/docs/3.4/javascript/#tabs
  * ========================================================================
  * Copyright 2011-2019 Twitter, Inc.
@@ -19,7 +19,7 @@
     // jscs:enable requireDollarBeforejQueryAssignment
   }
 
-  Tab.VERSION = '3.4.1'
+  Tab.VERSION = '3.4.2'
 
   Tab.TRANSITION_DURATION = 150
 
